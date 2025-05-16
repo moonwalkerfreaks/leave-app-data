@@ -1,2 +1,2 @@
 Employee,LeaveType,DayOrHour,FromDate,ToDate,FromTime,ToTime,Status,Timestamp
-Jane Smith,Casual Leave,Day,2025-05-19,2025-05-20,,,Pending,2025-05-16T22:11:34.335Z
+Jane Smith,Casual Leave,Day,2025-05-19,2025-05-20,,,Cancelled,2025-05-16T22:11:34.335Z
